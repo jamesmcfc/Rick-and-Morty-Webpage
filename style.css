@@ -1,0 +1,67 @@
+
+/* * {
+    text-align: center;} */
+
+/* The *{} will effect all your HTML code */
+
+h1, h2 {
+    color:aqua;
+    font-size: 50px;
+}
+
+a {
+    color:gold;
+    font-size: 20px;
+}
+
+w {
+    color:crimson;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+p {
+    color:aqua;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+q {
+    color:lime;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+r {
+    color:aliceblue;
+    font-size: 20px;
+}
+
+
+body {
+    background-image: url("rickandmorty.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.welcome {
+    color:orangered;
+}
+
+.navbar {
+    display: flex;
+    background-color:forestgreen;
+    height: 30px;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+#giflogo {
+    text-align: center;
+}
+
+/* .text {
+    color:yellow;
+    font-size: 20px;
+} */
